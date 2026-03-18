@@ -32,7 +32,7 @@ body{
     background-color: #091413;
     width:100%;
 }
-.sidebar a :hover{
+.sidebar a:hover{
 color :#285A48;
 
 }
@@ -57,4 +57,34 @@ li{
 a{
     display:block;
      width: 100%;
+}
+.button{
+
+background-color: #B0E4CC;
+font-family:serif sans-serif;
+display: flex;
+height: 22%;
+border-radius: 14px;
+padding:40px ;
+font-size: larger;
+width:100%
+}
+.buttons{
+width: 70%;
+}
+.resume{
+   
+    background-color:#B0E4CC;
+    color:black;
+    text-align:justify;
+    
+
+}
+h2{
+    font-size: 35px;
+    padding-left: 10px;
+}
+p{
+    font-size: 17px;
+     padding-left: 10px;
 }
