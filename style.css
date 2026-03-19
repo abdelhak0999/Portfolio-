@@ -88,3 +88,17 @@ p{
     font-size: 17px;
      padding-left: 10px;
 }
+form{
+    padding: 10px 35px ;
+    display:flex;
+  flex-direction: column;
+  width:60%;
+  
+}
+label{
+    font-size: 20px;
+}
+input{
+   height: 22px;
+   
+}
